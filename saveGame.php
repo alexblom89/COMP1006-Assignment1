@@ -60,6 +60,8 @@ if($valid == true) {
 
     echo '<h2>Game has been saved!</h2>';
 
+    header('location:gamesTable.php');
+
 }
 ?>
 </body>

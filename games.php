@@ -15,11 +15,11 @@
             </fieldset>
             <fieldset>
                 <label for="release_year">Release Year:</label>
-                <input name="release_year" id="release_year"/>
+                <input name="release_year" id="release_year" required/>
             </fieldset>
             <fieldset>
                 <label for="developer">Developer:</label>
-                <input name="developer" id="developer"/>
+                <input name="developer" id="developer" required/>
             </fieldset>
             <fieldset>
                 <label for="esrb_rating">ESRB Rating:</label>
